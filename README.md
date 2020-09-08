@@ -8,4 +8,4 @@
 - 📫 How to reach me: [My Homepage](https://mhbproject.com)
 - ⚡ Fun fact: i am a weebs 😅
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmahbubi&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmahbubi&layout=compact)]()
