@@ -7,4 +7,3 @@
 - 💬 Ask me about everything in web development !
 - 📫 How to reach me: [My Homepage](https://mhbproject.com)
 - ⚡ Fun fact: i am a weebs 😅
--->
